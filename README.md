@@ -25,18 +25,18 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [x] Describe the game's purpose — A Streamlit number guessing game where you guess a secret number within a set number of attempts.
+- [x] Detail which bugs you found — 8 bugs total, see [report.md](report.md).
+- [x] Explain what fixes you applied — All bugs fixed in `app.py` and `logic_utils.py`, covered by 25 passing pytest tests.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [x] [Insert a screenshot of your fixed, winning game here]
       ![alt text]({DD58DEE3-0D2E-40E1-A95C-66CE1B05DCB5}.png)
 
 ## ✅ Pytest Results
 
-- [ ] [Insert screenshot of pytest results here]
+- [x] [Insert screenshot of pytest results here]
       ![alt text]({06ADCCAC-D0CA-40A5-885D-445428B69DE1}.png)
 
 ## 🚀 Stretch Features
